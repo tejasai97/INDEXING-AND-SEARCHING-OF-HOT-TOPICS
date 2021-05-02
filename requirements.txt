@@ -1,0 +1,13 @@
+elasticsearch==1.9.0 
+Flask==1.0.2
+Flask-Cors==3.0.7
+murmurhash==1.0.2
+nltk==3.4
+pyelasticsearch==1.4.1
+pypi==2.1
+pyprobables==0.3.0
+tweepy==3.7.0
+textblob==0.15.3
+
+
+
